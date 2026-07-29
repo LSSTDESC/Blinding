@@ -49,6 +49,7 @@ authors:
     orcid: 0000-0002-4587-7178
     affiliation: "8"
   - name: the LSST Dark Energy Science Collaboration
+    affiliation: "16"
 affiliations:
   - index: 1
     name: Oskar Klein Centre for Cosmoparticle Physics, Department of Physics, Stockholm University, Stockholm, SE-106 91, Sweden
@@ -80,6 +81,8 @@ affiliations:
     name: Department of Physics, Duke University, Science Dr, Durham, NC 27710, USA
   - index: 15
     name: Institute for Particle Physics and Astrophysics, ETH Zurich, 8093 Zurich, Switzerland
+  - index: 16
+    name: SLAC National Accelerator Laboratory, Menlo Park, CA 94025, USA
 date: 28 April 2026
 bibliography: paper.bib
 ---
